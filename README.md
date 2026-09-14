@@ -50,6 +50,8 @@ MovieRecommendationSystem/
 ├── similarity.pkl
 └── README.md
 
+```
+
 <img width="1911" height="908" alt="image" src="https://github.com/user-attachments/assets/82e72669-08fd-441c-9513-585b825a19da" />
 
 <img width="1918" height="933" alt="image" src="https://github.com/user-attachments/assets/c2e060e6-3d2f-4adc-9d0c-32e2c048ba2c" />
